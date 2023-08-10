@@ -43,7 +43,7 @@
 
 <h2>Now Doing</h2>
 <ul>- 👯 로그라이크 게임 프로젝트 Team OneTry - Star Chaser에 참여하고 있습니다</ul>
-<ul>- 🌱 C# 서버 공부중입니다</ul>
+<ul>- 🌱 C# 서버 공부중입니다 (인프런 - Rookies 님의 강의)</ul>
 <ul>- 🌱 C++ 공부중입니다</ul>
 <ul>- 🌱 객체지향 프로그래밍을 마스터 하는것이 목표입니다.</ul>
 
