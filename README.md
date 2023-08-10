@@ -26,8 +26,9 @@
 <li>개발 엔진 : Unity</li>
 <li>사용 언어 : C#</li>
 <li>개발 기간 : 6개월</li>
-<li>프로젝트 설명 : https://www.notion.so/NO-SWEET-7e1ef6739cb24fd3a1889cffee46eed7?pvs=4</li>
+<li>프로젝트 설명 : https://humane-session-c83.notion.site/NO-SWEET-7e1ef6739cb24fd3a1889cffee46eed7</li>
 </ul>
+
 
 <h3>🌠Star Chaser</h3>
 <img width="960" alt="1" src=https://github.com/jinsso2/jinsso2/assets/80314460/789db611-ee53-49ea-b890-8a4b5e05c2fa)>
@@ -38,7 +39,7 @@
 <li>개발 엔진 : Unity</li>
 <li>사용 언어 : C#</li>
 <li>개발 기간 : 8개월</li>
-<li>프로젝트 설명 : https://www.notion.so/Star-Chaser-bff5f9775e664f5cbea95312776926ac?pvs=4</li>
+<li>프로젝트 설명 : https://humane-session-c83.notion.site/Star-Chaser-bff5f9775e664f5cbea95312776926ac</li>
 </ul>
 
 <h2>Now Doing</h2>
