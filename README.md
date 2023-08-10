@@ -1,10 +1,11 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Jinsso&fontColor=946CEE)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Jinsso_Portfolio&fontColor=946CEE)
 
 
 <h2>📚STACK</h2> 
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
 <img src="https://img.shields.io/badge/Csharp-99CC00?style=for-the-badge&logo=sharp&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </div>
@@ -29,7 +30,8 @@
 </ul>
 
 <h3>🌠Star Chaser</h3>
-![스채 오프닝일러](https://github.com/jinsso2/jinsso2/assets/80314460/aa9e93d3-2ec2-4cf8-b0da-32d22428e4f0)
+<img width="960" alt="1" src=https://github.com/jinsso2/jinsso2/assets/80314460/789db611-ee53-49ea-b890-8a4b5e05c2fa)>
+
 <ul>
 <li>Team OneTry</li>
 <li>개발 참여 인원 : 10명 (PM1, 기획1, 프로그래밍2, 모델링3, 원화1, 사운드1)</li>
@@ -39,9 +41,13 @@
 <li>프로젝트 설명 : https://www.notion.so/Star-Chaser-bff5f9775e664f5cbea95312776926ac?pvs=4</li>
 </ul>
 
-<h3>Now Doing</h3>
+<h2>Now Doing</h2>
 <ul>- 👯 로그라이크 게임 프로젝트 Team OneTry - Star Chaser에 참여하고 있습니다</ul>
 <ul>- 🌱 C# 서버 공부중입니다</ul>
+<ul>- 🌱 C++ 공부중입니다</ul>
+<ul>- 🌱 객체지향 프로그래밍을 마스터 하는것이 목표입니다.</ul>
+
+
 
 <li>📫 Email : wlstjqkr1234@gmail.com</li>
 
