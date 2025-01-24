@@ -13,8 +13,6 @@
 <h3>Skills</h3>
 <ul>- 🔭 유니티 엔진을 주로 다룹니다</ul>
 <ul>- 🔭 C#을 이용한 개발을 합니다</ul>
-<ul>- 🤔 C++ 공부를 하고 있습니다</ul>
-<ul>- 🤔 언리얼 엔진을 사용한 적이 있습니다</ul>
 
 <h2>What I did</h2>
 <h3>NO SWEET</h3>
@@ -25,7 +23,7 @@
 <li>개발 참여 인원 : 3 (기획2, 프로그래밍1)</li>
 <li>개발 엔진 : Unity</li>
 <li>사용 언어 : C#</li>
-<li>개발 기간 : 6개월</li>
+<li>개발 기간 : 7개월</li>
 <li>프로젝트 설명 : https://humane-session-c83.notion.site/NO-SWEET-7e1ef6739cb24fd3a1889cffee46eed7</li>
 </ul>
 
@@ -38,7 +36,7 @@
 <li>개발 참여 인원 : 10명 (PM1, 기획1, 프로그래밍2, 모델링3, 원화1, 사운드1)</li>
 <li>개발 엔진 : Unity</li>
 <li>사용 언어 : C#</li>
-<li>개발 기간 : 8개월</li>
+<li>개발 기간 : 6개월</li>
 <li>프로젝트 설명 : https://humane-session-c83.notion.site/Star-Chaser-bff5f9775e664f5cbea95312776926ac</li>
 </ul>
 
