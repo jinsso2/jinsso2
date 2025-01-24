@@ -15,6 +15,18 @@
 <ul>- 🔭 C#을 이용한 개발을 합니다</ul>
 
 <h2>What I did</h2>
+
+<h2>YH데이타베이스 재직</h2>
+  
+![image](https://github.com/user-attachments/assets/31e8e8ed-012f-4175-8661-183446f036d9)
+
+<ul>
+  <li>컨텐츠 개발팀 연구원</li>
+  <li>기간 : 2023.12~현재 (1년 11개월)</li>
+  <li>담당 프로젝트 : 유알비타, 신규 게임 프로젝트</li>
+</ul>
+
+  
 <h3>NO SWEET</h3>
 
 <img width="960" alt="1" src="https://github.com/jinsso2/jinsso2/assets/80314460/a1acaaa6-8420-49c5-9561-7a4358591a6b">
@@ -39,13 +51,6 @@
 <li>개발 기간 : 6개월</li>
 <li>프로젝트 설명 : https://humane-session-c83.notion.site/Star-Chaser-bff5f9775e664f5cbea95312776926ac</li>
 </ul>
-
-<h2>Now Doing</h2>
-<ul>- 👯 로그라이크 게임 프로젝트 Team OneTry - Star Chaser에 참여하고 있습니다</ul>
-<ul>- 🌱 C# 서버 공부중입니다 (인프런 - Rookies 님의 강의)</ul>
-<ul>- 🌱 C++ 공부중입니다</ul>
-<ul>- 🌱 객체지향 프로그래밍을 마스터 하는것이 목표입니다.</ul>
-
 
 
 <li>📫 Email : wlstjqkr1234@gmail.com</li>
