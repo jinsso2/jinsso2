@@ -36,7 +36,6 @@
 <li>개발 엔진 : Unity</li>
 <li>사용 언어 : C#</li>
 <li>개발 기간 : 7개월</li>
-<li>프로젝트 설명 : https://humane-session-c83.notion.site/NO-SWEET-7e1ef6739cb24fd3a1889cffee46eed7</li>
 </ul>
 
 
@@ -49,7 +48,6 @@
 <li>개발 엔진 : Unity</li>
 <li>사용 언어 : C#</li>
 <li>개발 기간 : 6개월</li>
-<li>프로젝트 설명 : https://humane-session-c83.notion.site/Star-Chaser-bff5f9775e664f5cbea95312776926ac</li>
 </ul>
 
 
