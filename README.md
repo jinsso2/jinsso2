@@ -23,8 +23,8 @@
 <ul>
   <li>컨텐츠 개발팀 연구원</li>
   <li>기간 : 2023.12~현재 (1년 11개월)</li>
-  <li>담당 프로젝트 유알비타 빌더 / https://urvita.app/portal/contents.do?mId=0202000000
-    신규 게임 프로젝트</li>
+  <li>담당 프로젝트 유알비타 빌더 / https://urvita.app/portal/contents.do?mId=0202000000</li>
+  <li>신규 게임 프로젝트(미출시)</li>
 </ul>
 
   
